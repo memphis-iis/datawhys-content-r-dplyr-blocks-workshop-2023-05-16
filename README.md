@@ -13,6 +13,13 @@ If you've never used Jupyter or want to try the Blockly extension, check out the
 
 [![Tutorial video using Blockly](https://img.youtube.com/vi/-luPzplPDI0/0.jpg)](https://youtu.be/-luPzplPDI0 "Tutorial video using Blockly")
 
+## Interactive viewing
+
+Launch a demo session by clicking on the Binder badge below.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/memphis-iis/datawhys-content-r-dplyr-blocks-workshop-2023-05-16/master?urlpath=lab)
+
+
 ## Contributing
 
 If you want to change/correct content, either create an issue describing your change or [use a `git` workflow to make the change](https://www.atlassian.com/git/tutorials/making-a-pull-request).
